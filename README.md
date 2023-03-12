@@ -4,13 +4,9 @@
 A simple website made by using html , css , javscript. Basically rolls two die and shows the result accordingly !
 
 
-## 🔗 Links
-[Project_link](https://aniket-jain-aman.github.io/WebD_Task_2_Dicee/)
-
-
 
 ## Screenshots
-![Screenshot_20230125_232214](https://user-images.githubusercontent.com/114288809/214643342-ec402e19-f3d9-46e1-9611-431c79754dff.png)
+![Screenshot 2023-03-12 192430](https://user-images.githubusercontent.com/113968917/224549218-a61c042d-1024-4dc3-a661-e0cd5c5a74eb.jpg)
 
 
 
